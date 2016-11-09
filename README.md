@@ -1,8 +1,8 @@
 # gulp-srt-to-json
 
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square)](http://standardjs.com/)
-[![latest-release](https://img.shields.io/github/release/MrSlide/gulp-srt-to-json.svg?style=flat-square)](https://github.com/MrSlide/ExtDate/tree/master)
-[![GitHub issues](https://img.shields.io/github/issues/MrSlide/gulp-srt-to-json.svg?style=flat-square)](https://github.com/MrSlide/ExtDate/issues)
+[![latest-release](https://img.shields.io/github/release/MrSlide/gulp-srt-to-json.svg?style=flat-square)](https://github.com/MrSlide/gulp-srt-to-json/tree/master)
+[![GitHub issues](https://img.shields.io/github/issues/MrSlide/gulp-srt-to-json.svg?style=flat-square)](https://github.com/MrSlide/gulp-srt-to-json/issues)
 [![license](https://img.shields.io/github/license/MrSlide/gulp-srt-to-json.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 Convert SRT subtitle files into JSON format using [parseSRT](https://github.com/MrSlide/parseSRT).

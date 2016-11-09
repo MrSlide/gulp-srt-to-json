@@ -1,6 +1,6 @@
 {
   "name": "gulp-srt-to-json",
-  "version": "0.1.0-alpha",
+  "version": "1.0.0-alpha",
   "dependencies": {
     "acorn": {
       "version": "4.0.3",
@@ -885,9 +885,9 @@
       "resolved": "https://registry.npmjs.org/parse-json/-/parse-json-2.2.0.tgz"
     },
     "parse-srt": {
-      "version": "0.1.0-alpha",
-      "from": "parse-srt@latest",
-      "resolved": "https://registry.npmjs.org/parse-srt/-/parse-srt-0.1.0-alpha.tgz"
+      "version": "1.0.0-alpha",
+      "from": "parse-srt@1.0.0-alpha",
+      "resolved": "https://registry.npmjs.org/parse-srt/-/parse-srt-1.0.0-alpha.tgz"
     },
     "path-exists": {
       "version": "2.1.0",
